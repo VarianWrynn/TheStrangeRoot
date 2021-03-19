@@ -1,11 +1,13 @@
 # The Strange Roots
-@(哦呵呵)[词根词缀]
 
-**奇怪的词源**-翻译
 
-A website exploring the strange etymological roots of words used in technology and computer science.
+这是从阮一峰网站上看到的一个介绍IT行业相关的词汇网站，觉得很有趣，就试着想在业余时间慢慢翻译出来。
+
+> A website exploring the strange etymological roots of words used in technology and computer science.
 
 [这个网站](https://www.thestrangeroots.com/posts/)收集各种 IT 单词的来源。
+
+
 
 
 
